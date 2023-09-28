@@ -14,7 +14,7 @@ In order to use the framework there is no need to use any package manager. You c
 
 If you want to use the built in autoloader, you will need to add the following to your PHP file.
 
-```
+```php
 <?php
 
 declare(strict_types=1);
